@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @loiolahugo
+- 👀 I’m interested in SAP ABAP 
+- 🌱 I’m currently learning Fiori, BOPF
+- 📫 Reach me by email hugoximenes07@gmail.com
+- ⚡ Fun fact: I really enjoy coffee and play a lot of instruments
